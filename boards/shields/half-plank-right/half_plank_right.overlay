@@ -1,0 +1,5 @@
+#include "half_plank.dtsi"
+
+&default_transform {
+	col-offset = <6>;
+};
