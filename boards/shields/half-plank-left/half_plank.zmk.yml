@@ -1,0 +1,11 @@
+file_format: "1"
+id: half_plank
+name: HalfPlank
+type: shield
+url: https://https://github.com/benjii-k/half-plank
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - half_plank_left
+  - half_plank_right
