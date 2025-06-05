@@ -1,4 +1,4 @@
-name: zmk-keyboard-half-plank
+name: zmk-keyboard-half_plank
 build:
   settings:
     board_root: .
